@@ -4,9 +4,9 @@ A Insane GUI for Blooket which have a lot of options to use to hack in-game.
 
 How to Install and Use GUI:
 
-1: Download guiblooket.txt
+1: Download BlooketHackGUI.txt
 
-2: Open blooket.com/play and join a game
+2: Open play.blooket.com and join a game
 
 3: Press Ctrl + Shift + I at the same time or right click anywhere on the screen and click on Inspect to open the Developer Tab
 
