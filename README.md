@@ -4,7 +4,7 @@ A Insane GUI for Blooket which have a lot of options to use to hack in-game.
 
 How to Install and Use GUI:
 
-1: Download BlooketHackGUI.txt
+1: Download [BlooketHackGUI.txt](https://github.com/Clubby999/Blooket-Hack-GUI/archive/refs/heads/main.zip)
 
 2: Open [blooket.com](https://play.blooket.com/play) and join a game
 
