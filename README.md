@@ -14,7 +14,7 @@ How to Install and Use GUI:
 
 ![193400975-e68111a1-adbb-40f8-a2a9-b801be683798](https://user-images.githubusercontent.com/127083113/224636703-ad2e88c2-5799-44bf-b141-e952020739fc.jpg)
 
-5: Once your in Console, Open guiblooket.txt and copy all the text in the txt file
+5: Once your in Console, Open [BlooketHackGUI.txt](https://github.com/Clubby999/Blooket-Hack-GUI/archive/refs/heads/main.zip) and copy all the text in the txt file
 
 6: Paste it in the console and Click Enter
 
